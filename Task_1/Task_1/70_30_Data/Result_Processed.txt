@@ -1,0 +1,50 @@
+Test Data File:C:/Users/Akash Chandra Behera/Downloads/70_30_Data/Processed.csv
+
+
+Type of Test                                      	P-Value             	Conclusion
+01. Frequency Test (Monobit)                      	0.013894463449600328	Random
+02. Frequency Test within a Block                 	0.01978446597385744 	Random
+03. Run Test                                      	0.315434936596552   	Random
+04. Longest Run of Ones in a Block                	0.8312023332472542  	Random
+05. Binary Matrix Rank Test                       	0.03350860926269545 	Random
+06. Discrete Fourier Transform (Spectral) Test    	0.6338868410939453  	Random
+07. Non-Overlapping Template Matching Test        	0.3152444477868692  	Random
+08. Overlapping Template Matching Test            	0.515342152753259   	Random
+09. Maurer's Universal Statistical test           	-1.0                	Non-Random
+10. Linear Complexity Test                        	0.1213612641629668  	Random
+11. Serial test:
+													0.505497345852294   	Random
+													0.46277818380373803 	Random
+12. Approximate Entropy Test                      	0.8283108620476036  	Random
+13. Cummulative Sums (Forward) Test               	0.0226841086189613  	Random
+14. Cummulative Sums (Reverse) Test               	0.013538888208952639	Random
+15. Random Excursions Test:
+				State     	Chi Squared         	P-Value             	Conclusion
+				-4        	1.1102703190939516  	0.953190577063438   	Random
+				-3        	2.9100337349397596  	0.713853698686571   	Random
+				-2        	6.581288115424662   	0.25368827149330075 	Random
+				-1        	3.3855421686746987  	0.6407728112274513  	Random
+				+1        	2.903614457831326   	0.7148426936905952  	Random
+				+2        	5.756656254648223   	0.3306220011251763  	Random
+				+3        	7.36535903614458    	0.19485491141672973 	Random
+				+4        	6.1635864574499575  	0.2906251723439763  	Random
+16. Random Excursions Variant Test:
+				State     	COUNTS              	P-Value             	Conclusion
+				-9.0      	98                  	0.36539160712341845 	Random
+				-8.0      	95                  	0.3143646514336663  	Random
+				-7.0      	90                  	0.24733819594425965 	Random
+				-6.0      	99                  	0.2675647218129089  	Random
+				-5.0      	105                 	0.2644492553202724  	Random
+				-4.0      	130                 	0.4552049235747043  	Random
+				-3.0      	145                 	0.6062562561979579  	Random
+				-2.0      	135                 	0.3259655751577465  	Random
+				-1.0      	142                 	0.1877812720991524  	Random
+				+1.0      	193                 	0.13838885874524204 	Random
+				+2.0      	205                 	0.21654693655255053 	Random
+				+3.0      	206                 	0.3262174148532534  	Random
+				+4.0      	225                 	0.22100269661021332 	Random
+				+5.0      	236                 	0.20034016262941168 	Random
+				+6.0      	216                 	0.40802214325298214 	Random
+				+7.0      	205                 	0.5527522514438263  	Random
+				+8.0      	199                 	0.6400515920220865  	Random
+				+9.0      	171                 	0.9469364817696533  	Random
